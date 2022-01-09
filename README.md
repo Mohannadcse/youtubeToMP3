@@ -8,4 +8,6 @@ source env/bin/activate
 youtubeToMP3.py -u <url> OR youtubeToMP3.py -url=<url>
 ```
 
+<url> should be between double quotes, (i.e., -url="www.....")
+
 
